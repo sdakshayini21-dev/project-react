@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+:root{
+    --primary:rgb(196, 31, 97);
+    --accent:rgb(14, 14, 14);
+    --text:rgb(31, 114, 122);
+    --light: rgb(100, 136, 50);
+    --white:rgb(243, 244, 230);
+    --font-main:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+body{
+    font-family:var(--font-main);
+    color:var(--text);
+    line-height: 1.6;
+    background-color: var(--white);
+}
