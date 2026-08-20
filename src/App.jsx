@@ -1,10 +1,10 @@
-import Navbar from './components/Navbar/Navbar';
-import Hero from "./components/Hero/Hero";
-import About from "./components/About/About";
-import Skills from "./components/Skills/Skills";
-import Project from "./components/Project/Project";
-import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
+import Navbar from './Components/Navbar/Navbar';
+import Hero from "./Components/Hero/Hero";
+import About from "./Components/About/About";
+import Skills from "./Components/Skills/Skills";
+import Project from "./Components/Project/Project";
+import Contact from "./Components/Contact/Contact";
+import Footer from "./Components/Footer/Footer";
 
 import "./App.css";
 
